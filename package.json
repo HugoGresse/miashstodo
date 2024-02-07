@@ -1,7 +1,7 @@
 {
   "name": "express-api-starter",
   "version": "1.0.0",
-  "description": "A starter for Express api projects",
+  "description": "Change code",
   "license": "MIT",
   "type": "module",
   "main": "./src/index.js",
